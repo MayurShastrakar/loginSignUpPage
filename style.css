@@ -17,7 +17,7 @@ body{
     align-items: center;
     min-height: 100vh;
     /* background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%); */
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background: linear-gradient(-45deg, #3b55d4, #1686b5, #cbe856, #23d5ab);
     background-size: 400% 400%;
     transition: 0.5s;
     animation: change 10s ease-in-out infinite;
